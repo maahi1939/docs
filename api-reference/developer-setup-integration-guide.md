@@ -35,7 +35,9 @@
 <!-- wp:paragraph -->
 <p>The integration process involves connecting your application to external services using RESTful APIs. Developers should follow best practices such as using environment variables, handling authentication securely, and managing API requests efficiently.</p>
 <!-- /wp:paragraph -->
-
+<!-- wp:paragraph -->
+<p>Include logging and monitoring in your integration workflow to track API usage, detect errors early, and maintain system reliability. Using simple logging tools or dashboards can help developers quickly identify issues and optimize performance over time.</p>
+<!-- /wp:paragraph -->
 <!-- wp:heading -->
 <h2 class="wp-block-heading"><strong>Using OpenAI API</strong></h2>
 <!-- /wp:heading -->
